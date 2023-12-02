@@ -13,31 +13,14 @@ This project aims to assess the accuracy of Convolutional Neural Networks (CNNs)
 - Comparable precision and recall scores in both MobileNetV2 and Xception architectures.
 
 ## Repository Contents
-- `data`: Folder containing dataset samples and augmentation details.
-- `models`: Trained model files and architecture details.
-- `notebooks`: Jupyter notebooks with model training and evaluation steps.
-- `src`: Source code for data preprocessing, model training, and evaluation scripts.
-
-## Installation and Usage
-Instructions on how to set up the environment, install dependencies, and run the project.
-
-## Contributing
-Guidelines for contributing to the project, including coding standards and pull request process.
-
-## License
-Details of the project license.
-
-## Contact Information
-- Deirdre O'Regan - `x19175361@student.ncirl.ie`
-- Cian Ó Muilleoir - `x20144717@student.ncirl.ie`
-- Conor Moody - `x21201765@student.ncirl.ie`
-- Stephen Greene - `x20153171@student.ncirl.ie`
+- `data`: Folder containing raw and processes image dataset.
+- `scripts`: Source code for data preprocessing, model training, and evaluation scripts.
 
 ## Images and Visualizations
 
 ### CNN Architectures
-![MobileNetV2 Architecture](path/to/mobilenetv2_architecture.png)
-![Xception Architecture](path/to/xception_architecture.png)
+![MobileNetV2 Architecture](Project Images\Mobilenet_model_plot.png)
+![Xception Architecture](Project Images\Xception_model_plot.png)
 
 ### Data Augmentation
 ![Data Augmentation Example](path/to/data_augmentation_example.png)
