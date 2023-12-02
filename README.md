@@ -19,8 +19,8 @@ This project aims to assess the accuracy of Convolutional Neural Networks (CNNs)
 ## Images and Visualizations
 
 ### CNN Architectures
-![MobileNetV2 Architecture](Project Images\Mobilenet_model_plot.png)
-![Xception Architecture](Project Images\Xception_model_plot.png)
+![MobileNetV2 Architecture](https://github.com/comuilleoir/Mpox-ID-Project/blob/main/Project%20Images/Mobilenet_model_plot.png)
+![Xception Architecture](https://github.com/comuilleoir/Mpox-ID-Project/blob/main/Project%20Images/Xception_model_plot.png)
 
 ### Data Augmentation
 ![Data Augmentation Example](path/to/data_augmentation_example.png)
