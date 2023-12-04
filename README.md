@@ -58,4 +58,4 @@ Xception ROC Curve
 ### Evaluation Metrics
 State of Art Comparison
 
-![State of Art Comparison](https://github.com/comuilleoir/Mpox-ID-Project/blob/main/Project%20Images/Comparison%20To%20State%20of%20Art.png)
+![State of Art Comparison](https://github.com/comuilleoir/Mpox-ID-Project/blob/main/Project%20Images/Camparison%20To%20State%20of%20Art.png)
