@@ -54,3 +54,8 @@ Xception Matrix
 Xception ROC Curve
 
 ![Xception ROC Curve](https://github.com/comuilleoir/Mpox-ID-Project/blob/main/Project%20Images/Xception_AUC.png)
+
+### Evaluation Metrics
+State of Art Comparison
+
+![State of Art Comparison](https://github.com/comuilleoir/Mpox-ID-Project/blob/main/Project%20Images/Comparison%20To%20State%20of%20Art.png)
