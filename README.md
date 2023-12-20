@@ -4,17 +4,22 @@
 This project aims to assess the accuracy of Convolutional Neural Networks (CNNs) in classifying mpox virus from images. The study is motivated by the 2022 mpox outbreak, which was declared a global health emergency. We explore the efficacy of lightweight CNN models for potential integration into mobile applications, enhancing diagnostic capabilities globally.
 
 ## Methodology
-- **Data Sources:** Utilized two publicly available datasets with additional data augmentation.
-- **CNN Architectures:** Employed MobileNetV2 and Xception models with transfer learning. These were run in a Goolge Colab environment.
+- **Data Sources:** Two publicly available datasets containing images of mpox lesions were used.
+- **Data Preprocessing:** Data was preprocessed for optimal performance, including rescaling pixel values.
+- **Models Used:** MobileNet and Xception models were employed, known for efficiency in image classification tasks.
+  - **MobileNet Customization:** Custom layers were added for specific mpox identification requirements.
+  - **Xception Customization:** Adapted for fine-grained image details.
+- **Image Processing Techniques:** Advanced techniques were applied to enhance diagnostic feature discernment.
 - **Evaluation Metrics:** Focused on accuracy, precision, recall, and F1 scores.
 
-## Key Findings
-- The optimal results were obtained via transfer learning, achieving 89% accuracy.
-- Comparable precision and recall scores in both MobileNetV2 and Xception architectures.
+## Results and Observations
+- **Performance Metrics:** Achieved an 89% accuracy with comparable precision and recall scores in both MobileNetV2 and Xception models.
+- **Model Comparison:** Insights into MobileNet and Xception performance in accuracy, speed, and resource consumption.
 
 ## Repository Contents
 - `data`: Folder containing raw and processes image dataset.
 - `scripts`: Source code for data preprocessing, model training, and evaluation scripts.
+- `Project Images`: Features charts and plots such as AUC and confusion matrices, providing insights from the analysis.
 
 ## Images and Visualizations
 
