@@ -16,6 +16,11 @@ This project aims to assess the accuracy of Convolutional Neural Networks (CNNs)
 - **Performance Metrics:** Achieved an 89% accuracy with comparable precision and recall scores in both MobileNetV2 and Xception models.
 - **Model Comparison:** Insights into MobileNet and Xception performance in accuracy, speed, and resource consumption.
 
+## Technologies Used
+- **Python**: For scripting, data preprocessing, and model implementation.
+- **MobileNet and Xception CNNs**: For image classification tasks, chosen for their efficiency and accuracy.
+- **Data Augmentation and Preprocessing Tools**: To enhance the dataset and improve model training.
+
 ## Repository Contents
 - `data`: Folder containing raw and processes image dataset.
 - `scripts`: Source code for data preprocessing, model training, and evaluation scripts.
@@ -64,3 +69,7 @@ Xception ROC Curve
 State of Art Comparison
 
 ![State of Art Comparison](https://github.com/comuilleoir/Mpox-ID-Project/blob/main/Project%20Images/Camparison%20To%20State%20of%20Art.png)
+
+## Limitations and Future Work
+- **Data Availability**: Limited by the volume of publicly available mpox image data.
+- **Future Directions**: Suggests exploration of additional CNN architectures and further data augmentation techniques to improve classification accuracy. Potential for extending the study to multi-class classification of various skin conditions.
